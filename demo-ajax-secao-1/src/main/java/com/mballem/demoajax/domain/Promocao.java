@@ -19,6 +19,7 @@ import javax.validation.constraints.NotNull;
 import org.springframework.format.annotation.NumberFormat;
 import org.springframework.format.annotation.NumberFormat.Style;
 
+
 @SuppressWarnings("serial")
 @Entity
 @Table(name = "promocoes")
